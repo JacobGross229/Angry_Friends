@@ -1,4 +1,4 @@
-# Make_Your_Friends_Angry
+# Angry_Friends
 
 #This was a little side project that I made when I was learning Python.
 #It's a little basic program that adds random numbers to your answer. 
